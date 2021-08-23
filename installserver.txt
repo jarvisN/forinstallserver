@@ -1,4 +1,7 @@
+ ssh -i "finalproject.pem" ubuntu@ec2-3-17-71-96.us-east-2.compute.amazonaws.com
 
+	
+	
 	sudo apt update
 	sudo apt upgrade
 	sudo apt install apache2
@@ -70,4 +73,5 @@
 	sudo chmod -R 777 /var/www
 
 https://askubuntu.com/questions/303593/how-can-i-chmod-777-all-subfolders-of-var-www
+
 
