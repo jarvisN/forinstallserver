@@ -67,4 +67,5 @@
 	sudo chown -R ubuntu:root /var/www/html
 	sudo find html -type d -exec chmod 777 {} \;
 
+https://askubuntu.com/questions/303593/how-can-i-chmod-777-all-subfolders-of-var-www
 
