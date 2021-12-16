@@ -73,5 +73,6 @@
 	sudo chmod -R 777 /var/www
 
 https://askubuntu.com/questions/303593/how-can-i-chmod-777-all-subfolders-of-var-www
-
+#it's work
+https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-phpmyadmin-on-ubuntu-20-04
 
